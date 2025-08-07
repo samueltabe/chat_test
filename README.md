@@ -1,11 +1,4 @@
 
-## Laravel Livewire Chat Course Demo App
-
-![./cover.jpeg](/cover.jpeg)
-
-
-
-
 ## Quick Start
 
 -   Clone or download this repo and place it into your server.
@@ -16,6 +9,7 @@
 -   `php artisan key:generate`
 -   `npm install && npm run dev`
 -   `php artisan serve`
+-   `Ensure you have php, node and composer installed on your devices`
 
 then choose a user from the database and login.
 # chat_test
