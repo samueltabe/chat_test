@@ -10,6 +10,5 @@
 -   `npm install && npm run dev`
 -   `php artisan serve`
 -   `Ensure you have php, node and composer installed on your devices`
-
-then choose a user from the database and login.
+-   `then choose a user from the database and login`
 # chat_test
